@@ -1,0 +1,57 @@
+body{
+    background-color: dimgray;
+    display: inherit;
+        
+}
+.header-top{
+    display: flex;
+  justify-content: right;
+   align-items: center;  
+   color: inherit;
+   margin-left: 30px;
+   text-decoration: inherit;
+   text-transform: uppercase;
+   outline: none;
+}
+.start{
+    display: inherit;
+   
+        
+        
+}
+.intro{
+    h1{
+        align-items: left;
+    }
+    display: flex;
+    border-color: black;
+    float: left;
+    
+    width: 350.22px;
+    height: 226px;
+   
+}
+.activate{
+    h1{
+        align-items: left;
+    }
+    display: block;
+    float: left;
+    width:350.22px;
+    height: 226px;
+    margin-right: 40px;
+    align-items: center;
+    
+    
+}
+.data{
+    display: flex;
+    width: 850.44px;
+    height: 400px;
+   
+}
+.graph{
+    display: block;
+    height:400px;
+    width: 500px;
+}
